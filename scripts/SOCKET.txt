@@ -1,0 +1,13 @@
+cem.vxtong.com 443 第三方银行网络2
+hndlwx.ha.sgcc.com.cn 80 电力服务
+jiaofei.chinanums.com 443 第三方银行网络3
+59.207.219.108 80 社保第三方网络2
+apps.eshiyun.info 443 社保测试
+etax-l.henan.chinatax.gov.cn 80 预约办税
+xgfy.hnwsjsw.gov.cn 80 健康申报
+hndlwx.ha.sgcc.com.cn 443 电力服务
+111.6.41.13 80 公交第三方网络
+12345wx.zhumadian.gov.cn 80 大气污染第三方网络
+39.164.192.50 8088 第三方网络城市书房
+59.207.218.54 94 天气第三方网络
+59.207.237.1 8795 住房第三方网络
