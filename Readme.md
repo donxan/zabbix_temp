@@ -15,7 +15,6 @@ zabbix_get -s IP -k socket.discovery
 
 ```
 
-![image-20200706190538277](https://gitee.com/aiker/picss/raw/master/uPic/image-20200706190538277.png)
 
 
 
