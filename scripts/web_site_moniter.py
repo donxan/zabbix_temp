@@ -6,10 +6,6 @@ import os, sys, json
 reload(sys)
 sys.setdefaultencoding('utf-8')
 
-# 将要监控的web站点url添加到urllist列表
-# urllist = ["http://baidu.com",
-#            "http://www.qq.com",
-#            "http://www.sina.com.cn/"]
 files = '/data/zabbix/scripts/web_url.txt'
 
 fd = open(files, 'r')
